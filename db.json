@@ -1,0 +1,34 @@
+{
+  "devInfo": [
+    {
+      "id": 1,
+      "name": "Nihal",
+      "age": 17,
+      "skill": "MERN Stack Dev"
+    },
+    {
+      "id": 2,
+      "name": "Tahir",
+      "age": 23,
+      "skill": "Laravel Dev"
+    },
+    {
+      "id": 3,
+      "name": "Ashraful haque",
+      "age": 32,
+      "skill": "Django Dev"
+    },
+    {
+      "id": 4,
+      "name": "Jillur Rahman",
+      "age": 29,
+      "skill": "WordPress Dev"
+    },
+    {
+      "id": 5,
+      "name": "Hossain",
+      "age": 33,
+      "skill": "Java Dev"
+    }
+  ]
+}
